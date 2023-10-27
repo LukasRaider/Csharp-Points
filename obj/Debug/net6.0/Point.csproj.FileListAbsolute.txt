@@ -1,0 +1,14 @@
+C:\Users\Lenovo\source\repos\CSharp\Point\Point\obj\Debug\net6.0\Point.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\source\repos\CSharp\Point\Point\obj\Debug\net6.0\Point.AssemblyInfoInputs.cache
+C:\Users\Lenovo\source\repos\CSharp\Point\Point\obj\Debug\net6.0\Point.AssemblyInfo.cs
+C:\Users\Lenovo\source\repos\CSharp\Point\Point\obj\Debug\net6.0\Point.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\CSharp\Point\Point\bin\Debug\net6.0\Point.exe
+C:\Users\Lenovo\source\repos\CSharp\Point\Point\bin\Debug\net6.0\Point.deps.json
+C:\Users\Lenovo\source\repos\CSharp\Point\Point\bin\Debug\net6.0\Point.runtimeconfig.json
+C:\Users\Lenovo\source\repos\CSharp\Point\Point\bin\Debug\net6.0\Point.dll
+C:\Users\Lenovo\source\repos\CSharp\Point\Point\bin\Debug\net6.0\Point.pdb
+C:\Users\Lenovo\source\repos\CSharp\Point\Point\obj\Debug\net6.0\Point.dll
+C:\Users\Lenovo\source\repos\CSharp\Point\Point\obj\Debug\net6.0\refint\Point.dll
+C:\Users\Lenovo\source\repos\CSharp\Point\Point\obj\Debug\net6.0\Point.pdb
+C:\Users\Lenovo\source\repos\CSharp\Point\Point\obj\Debug\net6.0\Point.genruntimeconfig.cache
+C:\Users\Lenovo\source\repos\CSharp\Point\Point\obj\Debug\net6.0\ref\Point.dll
